@@ -10,7 +10,7 @@ namespace RoutePlannerConsole
     {
         static void Main(string[] args)
         {
-            string test;
+            string test = "Prinz Kussi in da house";
         }
     }
 }
