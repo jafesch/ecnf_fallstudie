@@ -7,8 +7,8 @@
     <ProjectGuid>{393C4AD5-75D1-4C11-8B16-909EBD3ABDDF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>RoutePlannerConsole</RootNamespace>
-    <AssemblyName>RoutePlannerConsole</AssemblyName>
+    <RootNamespace>Fhnw.Ecnf.RoutePlanner.RoutePlannerConsole</RootNamespace>
+    <AssemblyName>RoutePlanner</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,8 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RoutePlannerConsoleApp.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
