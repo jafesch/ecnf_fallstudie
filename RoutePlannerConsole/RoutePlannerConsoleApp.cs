@@ -12,6 +12,7 @@ namespace Fhnw.Ecnf.RoutePlanner.RoutePlannerConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to RoutePlanner (Version " + Assembly.GetExecutingAssembly().GetName().Version + ")");
+            Console.WriteLine("Welcome to RoutePlanner is now changed)");
             Console.ReadLine();
         }
     }
